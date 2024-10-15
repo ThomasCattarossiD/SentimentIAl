@@ -1,4 +1,4 @@
-# SentimenIAl
+# SentimentIAl
 ## Auteurs :
 ### CATTAROSSI Thomas
 ### POIRIER Achille
