@@ -15,3 +15,18 @@
 # Description du projet
 Ce projet est une application qui utilise un Modèle de Language Large pour analyser un texte, et énoncer ses intentions.  
 Ainsi, en mettant un message issu d'un forum, ou de discussion en ligne, l'IA va comprendre les sentiments exprimés par ce message, et dire si par exemple, le message a un contenu haineux, violent, ou autre.
+
+
+
+# Installation
+- `git clone`
+- `python -m venv venv`
+- `source bin activate`
+- `pip install -r requirements.txt`
+
+# Execution
+`python app.py`
+
+
+# Tests
+`pytest`
